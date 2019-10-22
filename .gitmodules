@@ -46,9 +46,6 @@
 [submodule "extra/argcheck"]
 	path = extra/argcheck
 	url = https://github.com/torch/argcheck.git
-[submodule "extra/cudnn"]
-	path = extra/cudnn
-	url = https://github.com/soumith/cudnn.torch.git
 [submodule "exe/trepl"]
 	path = exe/trepl
 	url = https://github.com/torch/trepl.git
@@ -85,3 +82,6 @@
 [submodule "extra/cutorch"]
 	path = extra/cutorch
 	url = https://github.com/dmikushin/cutorch.git
+[submodule "extra/cudnn"]
+	path = extra/cudnn
+	url = https://github.com/soumith/cudnn.torch.git
